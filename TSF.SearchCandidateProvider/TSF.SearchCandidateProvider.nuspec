@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>TSF.SearchCandidateProvider</title>
+    <authors>NyaRuRu</authors>
+    <owners>NyaRuRu</owners>
+    <description>
+      A managed wrapper of ITfFnSearchCandidateProvider.
+    </description>
+    <releaseNotes>
+    </releaseNotes>
+    <summary>
+      Make any IME as a query source (as long as it implements ITfFnSearchCandidateProvider).
+    </summary>
+    <language>en-US</language>
+    <projectUrl>https://github.com/NyaRuRu/TSF-SearchCandidateProvider</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
+    <copyright>$copyright$</copyright>
+    <references></references>
+    <tags>TSF IME Query ITfFnSearchCandidateProvider</tags>
+  </metadata>
+  <files>
+    <file src="bin\Release\TSF.SearchCandidateProvider.pdb" target="lib\net45\TSF.SearchCandidateProvider.pdb" />
+  </files>
+</package>
